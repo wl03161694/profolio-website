@@ -8,7 +8,7 @@ module.exports = {
     extend: 
     {
       fontFamily: {
-        primary: "Ade-display",
+        primary: "Ade-Display",
       }
     },
   },
